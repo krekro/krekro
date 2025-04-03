@@ -3,7 +3,7 @@
 - 📫 How to reach me ... yuhinw89@gmail.com
 - 😄 Pronouns: ... It/Its/Dog
 - ⚡ Fun fact: ... I'm actually a dog
-- ⚡ I'm a ... Application Developer, Application Support & IT Dog
+- ⚡ I'm a ... Software Developer, Application Support & IT Dog
 
 <!---
 krekro/krekro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
