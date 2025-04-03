@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Tennyson
+##Tennyson Wong##
+-  👋 Hi, I’m Tennyson
 - 📫 How to reach me ... yuhinw89@gmail.com
 - 😄 Pronouns: ... It/Its/Dog
 - ⚡ Fun fact: ... I'm actually a dog
